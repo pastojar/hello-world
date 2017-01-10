@@ -9,3 +9,6 @@ git add (file names)
 git commit -m "(committed message)  ALEBO (FUNGUJE AJ BEZ ADD) git commit -m "(committed message) file.name
 git push -u origin master
 git pull
+
+#restore a deleted file
+git checkout SHA file.name A POTOM git checkout master
