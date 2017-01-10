@@ -11,4 +11,4 @@ git push -u origin master
 git pull
 
 #restore a deleted file
-git checkout SHA file.name A POTOM git checkout master
+git checkout SHA file.name POTOM ZASE COMMITNUT A POTOM git checkout master
