@@ -12,3 +12,13 @@ git pull
 
 #restore a deleted file
 git checkout SHA file.name POTOM ZASE COMMITNUT A POTOM git checkout master
+
+#manage branches
+git branch test.haluz
+git checkout test.haluz
+ UROB  ZMENY
+ADD COMMIT PUSH
+git checkout master
+git merge test.haluz
+PUSH
+git branch -d test.haluz
